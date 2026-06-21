@@ -2,7 +2,7 @@
 
 ## Eunice Belen Malla Coro
 
-[Escriba aquí su nombre completo]
+
 
 ## Descripción del proyecto
 
